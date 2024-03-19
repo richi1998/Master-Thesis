@@ -1,0 +1,13 @@
+<corpus>
+<text lix="4.00" ovix="inf" nk="0.50">
+<paragraph>
+<sentence id="8f7-8c4">
+<w pos="PN" msd="PN.UTR.SIN.DEF.SUB" lemma="|jag|" lex="|jag..pn.1|" sense="|jag..1:-1.000|" complemgram="|" compwf="|" sentiment="" sentimentclass="" ref="1" dephead="2" deprel="SS">Jag</w>
+<w pos="VB" msd="VB.PRS.AKT" lemma="|ha|" lex="|ha..vb.1|" sense="|ha..1:0.667|ha..3:0.333|" complemgram="|" compwf="|" sentiment="0" sentimentclass="neutral" ref="2" dephead="" deprel="ROOT">har</w>
+<w pos="DT" msd="DT.UTR+NEU.PLU.IND" lemma="|ingen|" lex="|ingen..pn.1|" sense="|ingen..1:-1.000|" complemgram="|" compwf="|" sentiment="" sentimentclass="" ref="3" dephead="4" deprel="DT">inga</w>
+<w pos="NN" msd="NN.UTR.PLU.IND.NOM" lemma="|vän|" lex="|vän..nn.1|" sense="|vän..1:-1.000|" complemgram="|" compwf="|" sentiment="1" sentimentclass="positive" ref="4" dephead="2" deprel="OO">vänner</w>
+<w pos="MAD" msd="MAD" lemma="|" lex="|" sense="|" complemgram="|" compwf="|" sentiment="" sentimentclass="" ref="5" dephead="2" deprel="IP">.</w>
+</sentence>
+</paragraph>
+</text>
+</corpus>

@@ -2390,13 +2390,34 @@
 <ne ex="NUMEX" type="MSR" subtype="CUR">
 <w pos="RG" msd="RG.NOM" lemma="|" lex="|" sense="|" complemgram="|" compwf="|" sentiment="" sentimentclass="" ref="08" dephead="09" deprel="DT">8</w>
 <w pos="NN" msd="NN.UTR.PLU.IND.NOM" lemma="|miljard|" lex="|miljard..nn.1|" sense="|miljard..1:-1.000|" complemgram="|" compwf="|" sentiment="0" sentimentclass="neutral" ref="09" dephead="10" deprel="DT">miljarder</w>
-<w pos="NN" msd="NN.UTR.PLU.IND.NOM" lemma="|krona|" lex="|krona..nn.1|" sense="|krona..1:0.908|krona..3:0.057|krona..2:0.035|" complemgram="|" compwf="|" sentiment="0" sentimentclass="neutral" ref="10" dephead="06" deprel="OO">kronor</w>
+<w pos="NN" msd="NN.UTR.PLU.IND.NOM" lemma="|krona|" lex="|krona..nn.1|" sense="|krona..1:0.855|krona..3:0.098|krona..2:0.047|" complemgram="|" compwf="|" sentiment="0" sentimentclass="neutral" ref="10" dephead="06" deprel="OO">kronor</w>
 </ne>
 <w pos="PP" msd="PP" lemma="|på|" lex="|på..pp.1|" sense="|på..1:-1.000|" complemgram="|" compwf="|" sentiment="" sentimentclass="" ref="11" dephead="13" deprel="DT">på</w>
-<w pos="NN" msd="NN.UTR.PLU.IND.NOM" lemma="|väg|" lex="|väg..nn.1|" sense="|väg..2:0.538|väg..1:0.462|" complemgram="|" compwf="|" sentiment="0" sentimentclass="neutral" ref="12" dephead="13" deprel="CJ">vägar</w>
+<w pos="NN" msd="NN.UTR.PLU.IND.NOM" lemma="|väg|" lex="|väg..nn.1|" sense="|väg..2:0.666|väg..1:0.334|" complemgram="|" compwf="|" sentiment="0" sentimentclass="neutral" ref="12" dephead="13" deprel="CJ">vägar</w>
 <w pos="KN" msd="KN" lemma="|och|" lex="|och..kn.1|" sense="|och..1:-1.000|" complemgram="|" compwf="|" sentiment="" sentimentclass="" ref="13" dephead="06" deprel="RA">och</w>
 <w pos="NN" msd="NN.UTR.PLU.IND.NOM" lemma="|järnväg|" lex="|järnväg..nn.1|" sense="|järnväg..1:-1.000|" complemgram="|järn..nn.1+väg..nn.1:1.015e-10|" compwf="|järn+vägar|" sentiment="0" sentimentclass="neutral" ref="14" dephead="13" deprel="CJ">järnvägar</w>
 <w pos="MAD" msd="MAD" lemma="|" lex="|" sense="|" complemgram="|" compwf="|" sentiment="" sentimentclass="" ref="15" dephead="04" deprel="IP">.</w>
+</sentence>
+</paragraph>
+<paragraph>
+<sentence id="8d3c16-8a643b">
+<w pos="PN" msd="PN.UTR.SIN.DEF.SUB" lemma="|jag|" lex="|jag..pn.1|" sense="|jag..1:-1.000|" complemgram="|" compwf="|" sentiment="" sentimentclass="" ref="1" dephead="2" deprel="SS">Jag</w>
+<w pos="VB" msd="VB.PRS.AKT" lemma="|ha|" lex="|ha..vb.1|" sense="|ha..1:0.745|ha..3:0.255|" complemgram="|" compwf="|" sentiment="0" sentimentclass="neutral" ref="2" dephead="" deprel="ROOT">har</w>
+<w pos="DT" msd="DT.UTR+NEU.PLU.IND" lemma="|ingen|" lex="|ingen..pn.1|" sense="|ingen..1:-1.000|" complemgram="|" compwf="|" sentiment="" sentimentclass="" ref="3" dephead="4" deprel="DT">inga</w>
+<w pos="NN" msd="NN.UTR.PLU.IND.NOM" lemma="|vän|" lex="|vän..nn.1|" sense="|vän..1:-1.000|" complemgram="|" compwf="|" sentiment="1" sentimentclass="positive" ref="4" dephead="2" deprel="OO">vänner</w>
+<w pos="MAD" msd="MAD" lemma="|" lex="|" sense="|" complemgram="|" compwf="|" sentiment="" sentimentclass="" ref="5" dephead="2" deprel="IP">.</w>
+</sentence>
+</paragraph>
+<paragraph>
+<sentence id="851aa4-8f527f">
+<ne ex="TIMEX" type="TME" subtype="DAT">
+<w pos="AB" msd="AB" lemma="|idag|" lex="|idag..ab.1|" sense="|i_dag..1:-1.000|i_dag..2:-1.000|" complemgram="|" compwf="|" sentiment="" sentimentclass="" ref="1" dephead="2" deprel="TA">Idag</w>
+</ne>
+<w pos="VB" msd="VB.PRS.AKT" lemma="|vara|" lex="|vara..vb.1|" sense="|vara..1:-1.000|" complemgram="|" compwf="|" sentiment="0" sentimentclass="neutral" ref="2" dephead="" deprel="ROOT">är</w>
+<w pos="PN" msd="PN.UTR.SIN.DEF.SUB" lemma="|jag|" lex="|jag..pn.1|" sense="|jag..1:-1.000|" complemgram="|" compwf="|" sentiment="" sentimentclass="" ref="3" dephead="2" deprel="SS">jag</w>
+<w pos="AB" msd="AB" lemma="|inte|" lex="|inte..ab.1|" sense="|inte..1:-1.000|" complemgram="|" compwf="|" sentiment="" sentimentclass="" ref="4" dephead="2" deprel="NA">inte</w>
+<w pos="JJ" msd="JJ.POS.UTR.SIN.IND.NOM" lemma="|glad|" lex="|glad..av.1|" sense="|glad..1:-1.000|" complemgram="|" compwf="|" sentiment="1" sentimentclass="positive" ref="5" dephead="2" deprel="SP">glad</w>
+<w pos="MAD" msd="MAD" lemma="|" lex="|" sense="|" complemgram="|" compwf="|" sentiment="" sentimentclass="" ref="6" dephead="2" deprel="IP">.</w>
 </sentence>
 </paragraph>
 </corpus>

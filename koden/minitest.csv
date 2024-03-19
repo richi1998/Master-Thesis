@@ -1,0 +1,6 @@
+paragrafnummer,token,msd,lemma,lex,sense,complemgram,compwf,sentimentclass,ref,dephead,deprel
+1,Jag,PN.UTR.SIN.DEF.SUB,|jag|,|jag..pn.1|,|jag..1:-1.000|,|,|,-2,1,2,SS
+1,har,VB.PRS.AKT,|ha|,|ha..vb.1|,|ha..1:0.667|ha..3:0.333|,|,|,0,2,0,ROOT
+1,inga,DT.UTR+NEU.PLU.IND,|ingen|,|ingen..pn.1|,|ingen..1:-1.000|,|,|,-2,3,4,DT
+1,vänner,NN.UTR.PLU.IND.NOM,|vän|,|vän..nn.1|,|vän..1:-1.000|,|,|,1,4,2,OO
+1,.,MAD,|,|,|,|,|,-2,5,2,IP
